@@ -1,0 +1,25 @@
+_repo: Lippa_17681
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 17681-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Egerton, Beatrice
+    gutenberg_agent_id: '7537'
+    url: http://www.gutenberg.org/2009/agents/7537
+description: ''
+gutenberg_issued: '2006-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17681'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Courtship -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- Fiction'
+title: Lippa
+url: http://www.gutenberg.org/ebooks/17681
